@@ -94,12 +94,13 @@ Right aligned columns
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
+theme: jekyll-theme-hackathon
 
 ## Links
 
-[link text](http://dev.hackaton.league.com)
+[link text](http://dev.hackathon.league.com)
 
-[link with title](http://hackaton.github.io/pica/demo/ "title text!")
+[link with title](http://hackathon.github.io/pica/demo/ "title text!")
 
 ## Images
 
